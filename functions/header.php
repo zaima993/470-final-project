@@ -22,8 +22,8 @@
         <div class="container-fluid container">
             <div class="navbar-header">
                 <a class="navbar-brand" href="index.php">
-                    <img src="images/blood.jpg" width="150" height="100" alt="icon" class="logo-icon"/>
-                        BLOOD BANK MANAGEMENT SYSTEM
+                    <img src="images/blood.jpg" width="100" height="60" alt="icon" class="logo-icon"/>
+                        EMERGENCY BLOOD BANK MANAGEMENT SYSTEM
                 </a>
             </div>
             <ul class="nav navbar-nav">
